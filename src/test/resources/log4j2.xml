@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+
+    <Appenders>
+
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+	<!-- RollingFile-->
+       <RollingFile name="File"
+             fileName="logs/automation.log"
+             filePattern="logs/automation-%i.log">
+
+    <PatternLayout
+        pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+
+    <Policies>
+        <SizeBasedTriggeringPolicy size="5 MB"/>
+    </Policies>
+
+    <DefaultRolloverStrategy max="5"/>
+
+</RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+
+        <Root level="Debug">
+            <!--<AppenderRef ref="Console"/>-->
+            <AppenderRef ref="File"/>
+        </Root>
+
+    </Loggers>
+
+</Configuration>

@@ -1,0 +1,169 @@
+2026-07-27 11:27:31 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\User\AppData\Local\Temp\testng-eclipse--783013699\testng-customsuite.xml"
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--783013699\testng-customsuite.xml
+
+2026-07-27 11:27:32 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-07-27 11:27:38 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 11:27:38 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 11:27:39 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 11:27:43 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 11:27:43 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 11:27:43 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 11:27:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2032e725: 157 ms
+2026-07-27 11:27:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@441cc260: 15 ms
+2026-07-27 11:27:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1cbb3d3b: 16 ms
+2026-07-27 11:27:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@8c46918: 15 ms
+2026-07-27 11:27:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7aad3f7d: 0 ms
+2026-07-27 11:27:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6f667ad1: 0 ms
+2026-07-27 11:28:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\User\AppData\Local\Temp\testng-eclipse--774103177\testng-customsuite.xml"
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--774103177\testng-customsuite.xml
+
+2026-07-27 11:28:08 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2026-07-27 11:28:14 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 11:28:14 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 11:28:15 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 11:28:18 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 11:28:19 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 11:28:19 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 11:28:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@64030b91: 244 ms
+2026-07-27 11:28:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@383f1975: 4 ms
+2026-07-27 11:28:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7df60067: 43 ms
+2026-07-27 11:28:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4a55a6e8: 18 ms
+2026-07-27 11:28:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@153f66e7: 34 ms
+2026-07-27 11:28:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7aad3f7d: 1 ms
+2026-07-27 11:45:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\master.xml"
+2026-07-27 11:45:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\master.xml
+
+2026-07-27 11:46:00 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 11:46:00 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 11:46:02 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 11:46:05 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 11:46:05 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 11:46:05 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 11:46:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\master.xml"
+2026-07-27 11:46:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\master.xml
+
+2026-07-27 11:50:01 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\crossbrowsertest.xml"
+2026-07-27 11:50:43 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\crossbrowsertest.xml"
+2026-07-27 11:50:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\crossbrowsertest.xml
+
+2026-07-27 11:50:53 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 11:50:53 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 11:50:56 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 11:50:59 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 11:50:59 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 11:50:59 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 11:53:03 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\crossbrowsertest.xml"
+2026-07-27 11:53:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\crossbrowsertest.xml
+
+2026-07-27 11:53:13 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 11:53:13 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 11:53:15 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 11:53:18 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 11:53:18 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 11:53:18 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 11:57:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\crossbrowsertest.xml"
+2026-07-27 11:57:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\crossbrowsertest.xml
+
+2026-07-27 11:59:26 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 11:59:26 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 11:59:28 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 11:59:30 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 11:59:51 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 11:59:51 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 12:01:35 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\crossbrowsertest.xml"
+2026-07-27 12:01:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\crossbrowsertest.xml
+
+2026-07-27 12:01:55 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 12:01:55 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 12:02:01 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 12:02:03 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 12:02:03 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 12:02:03 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 12:02:06 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 12:02:06 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 12:02:07 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 12:02:10 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 12:02:10 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 12:02:10 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
+2026-07-27 12:15:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\master.xml"
+2026-07-27 12:15:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\master.xml
+
+2026-07-27 12:16:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Automation\opencart\master.xml"
+2026-07-27 12:16:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Automation\opencart\master.xml
+
+2026-07-27 12:17:06 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Starting TC001_AccountRegistrationPage****
+2026-07-27 12:17:06 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on MyAccount
+2026-07-27 12:17:08 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on Register
+2026-07-27 12:17:11 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected message
+2026-07-27 12:17:11 [main] DEBUG testCases.TC001_AccountRegistrationPage - Debug Logs....
+2026-07-27 12:17:11 [main] INFO  testCases.TC001_AccountRegistrationPage - ****Finished TC001_AccountRegistrationPage***
