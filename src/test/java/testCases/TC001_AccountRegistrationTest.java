@@ -7,7 +7,7 @@ import pageObjects.HomePage;
 import pageObjects.RegisterPage;
 import testBase.BaseClass;
 
-public class TC001_AccountRegistrationPage extends BaseClass{
+public class TC001_AccountRegistrationTest extends BaseClass{
 	
 	@Test
 	public void verifyAccountRegistration() {
